@@ -1,3 +1,4 @@
 test3 file created from cat >
 adding a line by ui
 adding new line --- 2
+line ... added from branch2
